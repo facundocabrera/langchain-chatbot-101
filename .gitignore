@@ -1,0 +1,9 @@
+.venv
+.env
+
+# Exclude data files
+data/chroma_db/*
+data/movies_*
+
+# Include empty data files
+!data/chroma_db/.gitkeep
