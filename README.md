@@ -91,7 +91,7 @@ python steps/data-preparation/compute_embedding.py
 
 ## Base de datos vectoriales - Tiempo estimado: TBD
 
-Ahora vamos a adentrarnos en la ultilización de bases de datos vectoriales, en
+Ahora vamos a adentrarnos en la utilización de bases de datos vectoriales, en
 particular para este ejemplo, vamos a utilizar ChromaDB que es un wrapper sobre
 SQLite:
 
@@ -123,11 +123,11 @@ python steps/langchain/prompts/prompt-templates.py
 ```
 
 ```bash
-python steps/langchain/prompts/prompt-fstring.py
+python steps/langchain/prompts/prompt-from-fstring.py
 ```
 
 ```bash
-python steps/langchain/prompts/prompt-yaml.py
+python steps/langchain/prompts/prompt-from-yaml.py
 ```
 
 ```bash
@@ -139,7 +139,7 @@ python steps/langchain/prompts/prompt-composition.py
 Como le damos memoria?
 
 ```bash
-python steps/langchain/memory/conversarion-buffer.py
+python steps/langchain/memory/conversation-buffer.py
 ```
 
 ### Retrieval - Tiempo estimado: TBD
