@@ -6,6 +6,13 @@ familiarizarnos con algunas de las herramientas que hoy se utilizan en el
 desarrollo de aplicaciones, de una forma amigable, ya que hay mucho para 
 aprender y no siempre es fácil encontrar un punto de partida.
 
+Si queres ver un resumen en video simplificado, que no utiliza langchain, te
+dejo a continuación este video que muestra en detalle como utilizar diferentes
+modelos de forma simplificada:
+
+A Hackers' Guide to Language Models by Jeremy Howard
+https://youtube.com/watch?v=jkrNMKz9pWU
+
 ## Pre-requisitos - Tiempo estimado: TBD
 
 Debemos tener pre-instaladas las siguientes herramientas:
